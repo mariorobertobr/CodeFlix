@@ -1,8 +1,9 @@
 package model
 
 import (
-	"https://github.com/asaskevich/govalidator"
 	"time"
+
+	"github.com/asaskevich/govalidator"
 )
 
 func init() {
